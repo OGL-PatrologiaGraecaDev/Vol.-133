@@ -1,0 +1,34 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/133/njp.32101007797895/743.png"; bbox 0 0 1935 3085; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 864 195 1145 371">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 864 195 1145 371">
+     <span class='ocr_line' id='line_1_1' title="bbox 864 195 1020 312; baseline 0 -100"><span class='ocrx_word' id='word_1_1' title='bbox 864 195 1020 312; x_wconf 45' lang='grc' dir='ltr'><strong>,ΜΓ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 864 214 1145 371; baseline 0.007 -19"><span class='ocrx_word' id='word_1_2' title='bbox 864 214 1145 371; x_wconf 58' lang='lat' dir='ltr'><strong>HW</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 799 194 952 213">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 799 194 952 213">
+     <span class='ocr_line' id='line_1_3' title="bbox 799 194 952 213; baseline 0.007 -1"><span class='ocrx_word' id='word_1_3' title='bbox 799 194 922 212; x_wconf 70' lang='grc' dir='ltr'><strong>υκινῑκςιτν</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 932 195 952 213; x_wconf 82' lang='lat' dir='ltr'><strong>LI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 671 313 800 350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 671 313 800 350">
+     <span class='ocr_line' id='line_1_4' title="bbox 671 313 800 350; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 671 313 800 350; x_wconf 90' lang='lat'><strong>32101</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 675 192 788 211">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 675 192 788 211">
+     <span class='ocr_line' id='line_1_5' title="bbox 675 192 788 211; baseline 0.009 -1"><span class='ocrx_word' id='word_1_6' title='bbox 675 192 788 211; x_wconf 67' lang='lat' dir='ltr'><strong>mon</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 636 212 953 312">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 636 212 953 312">
+     <span class='ocr_line' id='line_1_6' title="bbox 636 212 953 312; baseline 0.009 -3"><span class='ocrx_word' id='word_1_7' title='bbox 636 212 953 312; x_wconf 51' lang='grc' dir='ltr'><strong>ΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΝΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
